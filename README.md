@@ -3,7 +3,7 @@
 
 
 ### Languages & Frameworks:
-<img src= "https://skillicons.dev/icons?i=js,c,java,html,css,vue,c#"/>
+<img src= "https://skillicons.dev/icons?i=js,c,java,html,css,vue,cs"/>
 
 ### Tools:
 <img src= "https://skillicons.dev/icons?i=vscode,eclipse"/>
