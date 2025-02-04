@@ -3,9 +3,9 @@
 
 
 ### Languages & Frameworks:
-<img src= "https://skillicons.dev/icons?i=js,c,java,html,css,vue,cs,discord,dotnet,godot,unity"/>
+<img src= "https://skillicons.dev/icons?i=js,c,java,html,css,vue,cs,discord,dotnet"/>
 
 ### Tools:
-<img src= "https://skillicons.dev/icons?i=vscode,eclipse,visualstudio"/>
+<img src= "https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,godot,unity"/>
 
 
