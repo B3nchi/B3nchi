@@ -14,17 +14,19 @@
   
   <hr> <!-- Divider -->
 
-  <h3>Languages & Frameworks:</h3>
+  <h3>💻 Languages & Frameworks:</h3>
   <img src="https://skillicons.dev/icons?i=js,c,java,html,css,vue,cs,discord,dotnet"/>
 
   <hr> <!-- Divider -->
 
-  <h3>Tools:</h3>
+  <h3>⚙️ Tools:</h3>
   <img src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,godot,unity"/>
 
   <hr> <!-- Divider -->
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B3nchi&layout=compact" alt="Top Languages">
+  <h3>📊 Top Languages:</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B3nchi&layout=compact&theme=tokyonight" alt="Top Languages">
 
   <hr> <!-- Divider -->
 </div>
+
