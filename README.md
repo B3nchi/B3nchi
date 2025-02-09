@@ -25,7 +25,7 @@
   <hr> <!-- Divider -->
 
   <h3>📊 Top Languages:</h3>
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B3nchi&layout=compact&theme=tokyonight" alt="Top Languages">
 
   <hr> <!-- Divider -->
 </div>
