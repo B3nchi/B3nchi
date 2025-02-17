@@ -15,12 +15,12 @@
   <hr> <!-- Divider -->
 
   <h3>💻 Languages & Frameworks:</h3>
-  <img src="https://skillicons.dev/icons?i=js,c,java,html,css,vue,cs,discord,dotnet,notion"/>
+  <img src="https://skillicons.dev/icons?i=js,c,java,html,css,vue,cs,discord,dotnet"/>
 
   <hr> <!-- Divider -->
 
   <h3>⚙️ Tools:</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,godot,unity"/>
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,godot,unity,notion"/>
 
   <hr> <!-- Divider -->
 
