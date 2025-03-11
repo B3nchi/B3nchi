@@ -15,7 +15,7 @@
   <hr> <!-- Divider -->
 
   <h3>💻 Languages & Frameworks:</h3>
-  <img src="https://skillicons.dev/icons?i=js,c,java,html,css,vue,cs,discord,dotnet,nodejs,python,javascript"/>
+  <img src="https://skillicons.dev/icons?i=js,c,java,html,css,vue,cs,discord,dotnet,nodejs,python,javascript,vite"/>
 
   <hr> <!-- Divider -->
 
