@@ -20,7 +20,7 @@
   <hr> <!-- Divider -->
 
   <h3>⚙️ Tools:</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,godot,unity,notion,figma,git,azure,github"/>
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,godot,unity,notion,figma,git,azure,github,rider"/>
 
   <hr> <!-- Divider -->
 
