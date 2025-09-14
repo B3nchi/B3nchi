@@ -16,6 +16,7 @@
   <hr> <!-- Divider -->
 
   <h3>💻 Languages & Frameworks:</h3>
+  ## 🛠️ Tech Stack & Skills  
   
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white"/>
@@ -50,6 +51,7 @@
   <hr> <!-- Divider -->
 
   <h3>📊 Top Languages:</h3>
+  ## 📊 Stats  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B3nchi&layout=compact&theme=tokyonight" alt="Top Languages">
 
   <hr> <!-- Divider -->
