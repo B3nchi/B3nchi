@@ -1,13 +1,29 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/abdae8fe-bac1-43bd-8223-77312a4f6cf5" height="50px" width="50px" alt="Handwave GIF" />
-  <h2>Hi, I am Ben Cesar Cadungog!</h2>
-  <h3>I am an aspiring software & game developer</h3>
-  <p>
-    📸 <a href="https://www.instagram.com/ben.cadz/" target="_blank">Instagram</a> |
-    📘 <a href="https://www.facebook.com/bencesar.cadungog/" target="_blank">Facebook</a> |
-    📧 <a href="mailto:benccadungog@gmail.com">benccadungog@gmail.com</a>
-  </p>
-  <hr>
+  <h1>Hi, I'm Ben Cesar Cadungog!</h1>
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=FF6F61&center=true&vCenter=true&width=1050&lines=Hi!+I'm+Ben+Cesar+Cadungog.;Aspiring+Software+%26+Game+Developer.;Passionate+about+coding+and+creating+amazing+experiences.;Always+learning+new+technologies+and+frameworks.;Let's+build+something+awesome+together!" alt="Typing SVG" />
+</p>
+
+---
+
+## 👨‍💻 About Me  
+<p align="center">
+🎓 Aspiring developer passionate about **software & game development**  
+<br>🛠 Learning full-stack development and game design  
+<br>🚀 Always exploring new technologies and building cool projects  
+<br>💡 Interested in creating engaging user experiences and interactive applications  
+</p>
+
+<p align="center">
+📫 <strong>Reach me at:</strong> <a href="mailto:benccadungog@gmail.com">benccadungog@gmail.com</a>
+<br>📸 <a href="https://www.instagram.com/ben.cadz/" target="_blank">Instagram</a> |
+📘 <a href="https://www.facebook.com/bencesar.cadungog/" target="_blank">Facebook</a>
+</p>
+
+<div align="center">
   <img src="https://user-images.githubusercontent.com/111730344/229139045-c51b45e8-eb33-4f82-837c-92b53dc762ba.png">
 </div>
 
