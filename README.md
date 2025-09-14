@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/abdae8fe-bac1-43bd-8223-77312a4f6cf5" height="50px" width="50px" alt="Handwave GIF" />
-  <h2>Hi I am Ben Cesar Cadungog</h2>
+  <h2>Hi, I am Ben Cesar Cadungog!</h2>
   <h3>I am an aspiring software & game developer</h3>
 
   <p>
